@@ -26,6 +26,8 @@
 #   Summary: https://rstudio.github.io/renv/
 #   More detailed article: https://rstudio.github.io/renv/articles/renv.html
 
+
+
 # Install renv:
 if (!is.element("renv", installed.packages()[, 1])) {
   install.packages("renv", dependencies = TRUE)
@@ -226,6 +228,7 @@ cbind(frequency = table(pima_indians_diabetes_freq),
 
 boston_housing_chas_mode <- names(table(BostonHousing$chas))[
   which(table(BostonHousing$chas) == max(table(BostonHousing$chas)))
+
 ]
 print(boston_housing_chas_mode)
 
