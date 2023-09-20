@@ -11,14 +11,14 @@ Business Intelligence Lab Submission Markdown
 
 # Student Details
 
-|                                                   |                                                                                            |
-|---------------------------------------------------|--------------------------------------------------------------------------------------------|
-| **Student ID Numbers and Names of Group Members** | \<list one student name and ID per line; you should be between 2 and 5 members per group\> |
-| **BBIT 4.2 Group**                                | \<either group A, B, or C\>                                                                |
-| **Course Code**                                   | BBT4206                                                                                    |
-| **Course Name**                                   | Business Intelligence II                                                                   |
-| **Program**                                       | Bachelor of Business Information Technology                                                |
-| **Semester Duration**                             | 21<sup>st</sup> August 2023 to 28<sup>th</sup> November 2023                               |
+|                                                   |                                                                       |
+|---------------------------------------------------|-----------------------------------------------------------------------|
+| **Student ID Numbers and Names of Group Members** | \<list one student name should be between 2 and 5 members per group\> |
+| **BBIT 4.2 Group**                                | \<Group A\>                                                           |
+| **Course Code**                                   | BBT4206                                                               |
+| **Course Name**                                   | Business Intelligence II                                              |
+| **Program**                                       | Bachelor of Business Information Technology                           |
+| **Semester Duration**                             | 21<sup>st</sup> August 2023 to 28<sup>th</sup> November 2023          |
 
 # Setup Chunk
 

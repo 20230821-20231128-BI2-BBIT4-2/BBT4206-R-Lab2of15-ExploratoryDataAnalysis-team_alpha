@@ -255,6 +255,7 @@ summary(crop_dataset)
 summary(iris_dataset)
 summary(PimaIndiansDiabetes)
 
+
 ### STEP 10. Measure the standard deviation of each variable ----
 # Measuring the variability in the dataset is important because the amount of
 # variability determines how well you can generalize results from the sample
