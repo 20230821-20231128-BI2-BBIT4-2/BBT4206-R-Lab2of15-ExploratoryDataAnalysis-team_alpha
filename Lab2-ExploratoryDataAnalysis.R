@@ -10,7 +10,7 @@
 #
 # Note: The lecture contains both theory and practice. This file forms part of
 #       the practice. It has required lab work submissions that are graded for
-#       coursework marks.
+#       coursework marks 12.
 #
 # License: GNU GPL-3.0-or-later
 # See LICENSE file for licensing information.
